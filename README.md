@@ -36,7 +36,7 @@ Gets individual logs by id for an individual user.
 
 6. PUT (UPDATE) - /log/:id <br>
 Allows individual logs to be updated by a user.
-![update](./assets/Update.jpg)
+![update](./assets/update.jpg)
 <br>
 
 7. DELETE - /log/:id 
