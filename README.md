@@ -16,7 +16,7 @@ Allows a new user to be created with a username and password.
 
 2. POST - /user/login <br>
 Allows log in with an existing user.
-![login](./assets/login.jpg)
+![login](./assets/Login.jpg)
 <br>
 
 3. POST (CREATE) - /log/ <br>
